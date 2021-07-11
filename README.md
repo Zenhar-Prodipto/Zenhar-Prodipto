@@ -1,4 +1,4 @@
-~ Always curious about how computer programs work. Love working on projects that excites me
+~ Always curious about how computer programs work. Love working on projects that excite me
 ##### What I passionately like
 - Software Development
 - Machine Learning

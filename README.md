@@ -21,13 +21,13 @@
 ### Frameworks & Libraries:
 <p align='left'>
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/tensorflow/images/lockup.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="#" target="_blank"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/tensorflow/images/lockup.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -35,9 +35,9 @@
   
 <p align="left">
   
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/html5.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/css3.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/bootstrap.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/html5.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/css3.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/bootstrap.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   </p>
   

@@ -25,8 +25,8 @@
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+ 
+<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://www.gstatic.com/devrel-devsite/prod/v5f61782021051fb502364887a46a1c5ce2cd6f3d29a3549e907afe67612e9bba/tensorflow/images/lockup.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>

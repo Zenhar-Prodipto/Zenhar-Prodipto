@@ -2,8 +2,15 @@
 
 ~ Always curious about how computer programs work. Love working on projects that excite me
 ### What I passionately like
-- Software Development || Machine Learning || Data Structure & Algorithm
+- Software Development || Machine Learning || Data Structures & Algorithms
 
+### Sites I've been working on:
+- Portfolio
+  - [Portfolio & Blog](https://zenhar.herokuapp.com/) (Django)
+- Social Site
+  - [QuarantineScrawl](https://quarantinescrawl.herokuapp.com) (Django,Postgres)
+- E-commerce
+  - [SellMate](http://front-sellmate.herokuapp.com/) (MERN)
 
 ### Programming Languages:
 
@@ -42,13 +49,7 @@
   </p>
   
 
-### Sites I've been working on:
-- Portfolio
-  - [Portfolio & Blog](https://zenhar.herokuapp.com/) (Django)
-- Social Site
-  - [QuarantineScrawl](https://quarantinescrawl.herokuapp.com) (Django,Postgres)
-- E-commerce
-  - [SellMate](http://front-sellmate.herokuapp.com/) (MERN)
+
 
 
 ### Resume

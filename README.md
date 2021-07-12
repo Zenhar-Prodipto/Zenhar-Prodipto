@@ -58,8 +58,8 @@
 
 <p align='left'>
 
-<a href="https://twitter.com/outzensider_" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mustafa-zenhar/" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/outzensider_" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 Email: <zenhar.mz@gmail.com>

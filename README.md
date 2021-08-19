@@ -53,7 +53,7 @@
 
 
 ### Resume
-[My Resume](https://drive.google.com/file/d/1RjgAULinElgXw-q1D2BbgDrVtImVvg-5/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/13elNFhXSrL2nAeu9O-Uzu_OJV3IlTcLj/view)
 
 ### Connect With Me On:
 

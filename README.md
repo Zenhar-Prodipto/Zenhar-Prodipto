@@ -28,7 +28,7 @@
 ### Frameworks & Libraries:
 <p align='left'>
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="[https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg](https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development.png)" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

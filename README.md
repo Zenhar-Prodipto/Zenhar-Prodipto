@@ -4,7 +4,7 @@
 ### What I passionately like
 - Software Development || Machine Learning || Data Structures & Algorithms
 
-  <br><br>
+<p></p>
 
 <!--- 
 ### Sites I've been working on:

@@ -39,7 +39,7 @@
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkkn4E00FN7lzCPApKPSy5eeQ0rwMSOfqvA&s" ></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" ></a>
 <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>
 </p>

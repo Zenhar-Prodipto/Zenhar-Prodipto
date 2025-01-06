@@ -4,6 +4,9 @@
 ### What I passionately like
 - Software Development || Machine Learning || Data Structures & Algorithms
 
+  <br><br>
+
+<!--- 
 ### Sites I've been working on:
 - Portfolio
   - [Portfolio & Blog](https://zenhar.herokuapp.com/) (Django)
@@ -14,7 +17,7 @@
 
 ### Programming Languages:
 
-
+--->
 <p align='left'>
 
 
@@ -29,30 +32,25 @@
 
 ### Frameworks, Libraries & Cloud Tools:
 <p align='left'>
-<a href="#" target="_blank"><img height="40" src="[https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png](https://chatgpt.com/c/677ba8ba-b050-800a-8f6f-22dda761d945#:~:text=js%20logo.%0AExample%3A-,Node,-.js%20Logo)" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://nestjs.com/img/logo-small.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://docs.djangoproject.com/en/3.2/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/react.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-### Frameworks, Libraries & Cloud Tools:
-<p align='left'>
-<a href="#" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Node.js_logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img height="40" src="https://nodejs.org/static/images/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nestjs.com/" target="_blank"><img height="40" src="https://nestjs.com/img/logo-small.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqkkn4E00FN7lzCPApKPSy5eeQ0rwMSOfqvA&s" ></a>
+<br><br>
 <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>
+</p>
+
+### Databases:
+<p align='left'>
+<a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://redis.io/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Redis.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJnMxo2LvhZqFxSQirTEVdDDS9sQFhogUSA&s" ></a>
 </p>
 
 
@@ -60,9 +58,11 @@
   
 <p align="left">
   
-<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/html5.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/css3.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="40" src="https://github.com/prplx/svg-logos/raw/master/svg/bootstrap.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   </p>
   
@@ -70,8 +70,10 @@
 
 
 
+
+
 ### Resume
-[My Resume](https://drive.google.com/file/d/13elNFhXSrL2nAeu9O-Uzu_OJV3IlTcLj/view)
+[My Resume](https://www.linkedin.com/in/mustafa-zenhar/overlay/1729625844418/single-media-viewer/?profileId=ACoAADHK2b0B1IQ7raDTh5i2cQEMM-Tz9HOHjkI)
 
 ### Connect With Me On:
 

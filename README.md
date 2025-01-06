@@ -34,7 +34,7 @@
 <p align='left'>
 <a href="https://nodejs.org/" target="_blank"><img height="40" src="https://nodejs.org/static/images/logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://nestjs.com/" target="_blank"><img height="40" src="https://nestjs.com/img/logo-small.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nestjs.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

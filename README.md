@@ -20,6 +20,7 @@
 
 <a href="https://docs.python.org/3/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://docs.oracle.com/en/java/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
 

@@ -38,10 +38,10 @@
 <a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" ></a>
-<a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" ></a>
+<a href="https://www.docker.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" ></a>
 </p>
 
 

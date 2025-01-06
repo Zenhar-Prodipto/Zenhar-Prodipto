@@ -40,6 +40,22 @@
 <a href="#" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+### Frameworks, Libraries & Cloud Tools:
+<p align='left'>
+<a href="#" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Node.js_logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nestjs.com/" target="_blank"><img height="40" src="https://nestjs.com/img/logo-small.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank"><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank"><img height="40" src="https://flask.palletsprojects.com/en/2.0.x/_static/flask-icon.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img height="40" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 ### Web Tools:
   
 <p align="left">
